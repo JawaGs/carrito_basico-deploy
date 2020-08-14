@@ -1,0 +1,17 @@
+ {
+    "proveedor": "Tienda de pruebas",
+    "items":[
+        {
+            "nombre": "Producto 1",
+            "precio": 1500
+        },
+        {
+            "nombre": "Producto 2",
+            "precio": 5000
+        },
+        {
+            "nombre": "Producto 3",
+            "precio": 7852
+        }
+    ]
+}

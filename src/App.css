@@ -1,0 +1,44 @@
+.container{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  margin: 1vw 2vw
+}
+
+li{
+  list-style: none;
+}
+
+.productos{
+  width: 40%;
+}
+
+
+.boton{
+  color: #fff;
+  background: #22fd7e;
+  border: 2px solid #22fd7e;
+  border-radius: 6px;
+  padding: 1vw 1.6vw;
+  text-align: center;
+  display: inline-block;
+  font-size: 0.8vw;
+  margin: 5% 0 5% 22%;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.carrito{
+  border-radius: 10px;
+  box-shadow: 3px 3px 12px rgba(65, 64, 64, 0.5);
+  padding: 1vw 1.6vw;
+  margin: 1vw;
+}
+
+.item{
+  border: 1px solid #252525;
+  border-radius: 6px;
+  margin: 1vw ;
+  width: 90%;
+}
